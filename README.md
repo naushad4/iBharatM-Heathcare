@@ -33,7 +33,7 @@
 ---
 
 ## Team Members
-- **Atharva Deshmukh** (Team Lead)  
+- **Athrva Deshmukh** (Team Lead)  
 - **Gourav Kushwaha** (Team Lead)  
 - **Sonu Kushwaha**  
 - **Naushad Ali**
