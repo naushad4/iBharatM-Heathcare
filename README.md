@@ -88,6 +88,14 @@ Use the Health Bot for further healthcare-related guidance.
 
 3. Health Bot Interface
 
+![WhatsApp Image 2024-11-26 at 22 25 53_a6ef8027](https://github.com/user-attachments/assets/9ce14b64-46c2-4dad-9c27-44926f7b62f4)
+![WhatsApp Image 2024-11-26 at 22 25 14_12b7f001](https://github.com/user-attachments/assets/538094cc-d891-44df-be38-d5e03d5f31c1)
+![WhatsApp Image 2024-11-26 at 22 24 55_1dd11b24](https://github.com/user-attachments/assets/2dfb74ff-0e5b-4242-ad27-ec498d47b38b)
+![WhatsApp Image 2024-11-26 at 22 24 23_abaa3981](https://github.com/user-attachments/assets/4c9d87a2-e164-40e0-845d-da67a5f80644)
+![WhatsApp Image 2024-11-26 at 22 23 21_8441ca9a](https://github.com/user-attachments/assets/91a0f872-e3c2-441d-a4a3-c477d34a3bf5)
+![WhatsApp Image 2024-11-26 at 22 22 42_42f237d6](https://github.com/user-attachments/assets/dcd53e65-1631-4bcd-bc9b-cfb905a08243)
+
+
 ## Demo Video
 
 ##  Set Up a Virtual Environment
